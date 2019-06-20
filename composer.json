@@ -2,9 +2,9 @@
     "name": "ZhouYangY/yii2-xhprof",
     "description": "实现基于yii2的xhprof性能检测",
     "keywords": [
-        "php"
+        "php",
         "yii2",
-        "xhprof",
+        "xhprof"
     ],
     "homepage": "https://github.com/ZhouYangY/",
     "type": "yii2-extension",
