@@ -1,12 +1,12 @@
 {
-    "name": "ZhouYangY/yii2-xhprof",
+    "name": "zhou-yang-young/yii2-xhprof",
     "description": "实现基于yii2的xhprof性能检测",
     "keywords": [
         "php",
         "yii2",
         "xhprof"
     ],
-    "homepage": "https://github.com/ZhouYangY/",
+    "homepage": "https://github.com/zhou-yang-young/",
     "type": "yii2-extension",
     "license": "MIT",
     "authors": [
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-          "ZhouYangY\\xhprof\\": ""
+          "zhou-yang-young\\xhprof\\": ""
         }
     }
 }
